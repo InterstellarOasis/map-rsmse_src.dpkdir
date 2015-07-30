@@ -1,7 +1,7 @@
 RSMSE
 -----
 
-This is a map designed by Echon for the Gloom Quake Ⅱ modification and ported by bsp1t to Unvanquished. This project aims to enhance the map and fix some issues.
+This is a map designed by Echon for the Gloom Quake Ⅱ modification and ported by bsp1t to Unvanquished. This project enhances the map and fix some issues.
 
 History
 -------
@@ -14,7 +14,8 @@ Author
 
 * Echon <n_blast@hotmail.com>
 
-Contributor
------------
+Contributors
+------------
 
+* Thomas “illwieckz“ Debesse <dev@illwieckz.net>
 * bsp1t
