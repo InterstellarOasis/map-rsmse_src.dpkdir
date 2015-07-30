@@ -3,6 +3,11 @@ RSMSE
 
 This is a map designed by Echon for the Gloom Quake Ⅱ modification and ported by bsp1t to Unvanquished. This project enhances the map and fix some issues.
 
+Levelshot
+---------
+
+![Levelshot](meta/rsmse/rsmse.png)
+
 History
 -------
 
