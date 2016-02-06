@@ -4,7 +4,7 @@ update:
 	pak_mallet.py -u
 
 fast:
-	pak_mallet -b -bp fast
+	pak_mallet.py -b -bp fast
 
 final:
 	pak_mallet.py -b -bp final
