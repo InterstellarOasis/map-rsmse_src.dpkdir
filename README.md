@@ -14,32 +14,32 @@ How-to
 * Get the source
 
 ```
-git clone https://github.com/interstellar-oasis/map-rsmse.git map-atcshd_source.pk3dir
-cd map-rsmse_source.pk3dir/
+git clone https://github.com/InterstellarOasis/map-rsmse_src.dpkdir.git
+cd map-rsmse_src.dpkdir/
 ```
 
 * Build
 
-You need the [grtoolbox](https://github.com/illwieckz/grtoolbox) and the [illwieckz`s netradiant branch](https://gitlab.com/illwieckz/netradiant/commits/illwieckz).  
-You will find the pk3dir in `build/test`.
+You need the [Urcheon](https://github.com/illwieckz/Urcheon) tool and the [illwieckz`s netradiant branch](https://gitlab.com/illwieckz/netradiant/commits/illwieckz).  
+You will find the dpkdir in `build/test`.
 
 ```
 export PAKPATH="/where/you/installed/unvanquished/pkg"
-make
+urcheon build
 ```
 
 * Package
 
-You will find the pk3 in `build/pkg`.
+You will find the dpk in `build/pkg`.
 
 ```
-make pk3
+urcheon package
 ```
 
 Run the map:
 
 ```
-daemon -pakpath /where/you/installed/unvanquished/pkg -pakpath build/pkg +devmap rsmse
+daemon -pakpath build/pkg +devmap rsmse
 ```
 
 Credits
