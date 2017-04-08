@@ -6,7 +6,7 @@ This is a map designed by Echon for the Gloom Quake Ⅱ modification and ported 
 Levelshot
 ---------
 
-![Levelshot](meta/rsmse/rsmse.png)
+![Levelshot](meta/rsmse/rsmse_web.jpg)
 
 How-to
 ------
