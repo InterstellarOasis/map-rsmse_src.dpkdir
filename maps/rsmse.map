@@ -32865,12 +32865,6 @@ rsmse/lightcone1
 }
 // entity 0
 {
-"classname" "team_human_mgturret"
-"origin" "864.000000 -3424.000000 248.000000"
-"yaw" "135.000000"
-}
-// entity 0
-{
 "classname" "team_human_spawn"
 "origin" "320.000000 -3888.000000 232.000000"
 "yaw" "90.000000"
@@ -32907,20 +32901,26 @@ rsmse/lightcone1
 // entity 0
 {
 "classname" "team_human_mgturret"
-"origin" "944.000000 -3728.000000 200.000000"
-"yaw" "270.000000"
-}
-// entity 0
-{
-"classname" "team_human_mgturret"
-"origin" "552.000000 -3728.000000 200.000000"
-"yaw" "270.000000"
+"origin" "864.000000 -3424.000000 248.000000"
+"yaw" "135.000000"
 }
 // entity 0
 {
 "classname" "team_human_mgturret"
 "origin" "480.000000 -3424.000000 200.000000"
 "yaw" "45.000000"
+}
+// entity 0
+{
+"classname" "team_human_mgturret"
+"origin" "944.000000 -3728.000000 200.000000"
+"yaw" "90.000000"
+}
+// entity 0
+{
+"classname" "team_human_mgturret"
+"origin" "552.000000 -3728.000000 200.000000"
+"yaw" "90.000000"
 }
 // entity 0
 {
