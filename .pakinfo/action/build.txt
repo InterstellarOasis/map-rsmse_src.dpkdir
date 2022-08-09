@@ -1,1 +1,5 @@
 ignore meta/rsmse/rsmse_web.jpg
+ignore textures/rsmse_custom_src/metalplate3.png
+ignore textures/rsmse_custom_src/metaltrim1.png
+ignore textures/rsmse_custom_src/metaltrim2.png
+ignore textures/rsmse_custom_src/pipe1.png
