@@ -277,12 +277,3 @@ textures/rsmse/water1
 		// tcMod turb 0 0.2 0 0.5
 	}
 }
-
-textures/rsmse/caulk
-{
-	qer_editorimage	textures/rsmse/caulk
-	surfaceparm nodraw
-	surfaceparm nomarks
-	surfaceparm nolightmap
-}
-
