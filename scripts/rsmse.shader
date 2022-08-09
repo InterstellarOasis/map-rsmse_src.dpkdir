@@ -1,209 +1,218 @@
 textures/rsmse/hazard1
 {
-	qer_editorimage textures/rsmse/hazard1_d
+	qer_editorimage textures/rsmse_custom_src/hazard1_d
 	{
-		diffuseMap  textures/rsmse/hazard1_d
-		normalMap   textures/rsmse/hazard1_n
-		specularMap textures/rsmse/hazard1_s
+		diffuseMap  textures/rsmse_custom_src/hazard1_d
+		normalMap   textures/rsmse_custom_src/hazard1_n
+		specularMap textures/rsmse_custom_src/hazard1_s
 	}
 }
 
 textures/rsmse/metaltrimwide1
 {
-	qer_editorimage textures/rsmse/metaltrimwide1_d
+	qer_editorimage textures/rsmse_custom_src/metaltrimwide1_d
 	{
-		diffuseMap  textures/rsmse/metaltrimwide1_d
-		normalMap   textures/rsmse/metaltrimwide1_n
-		specularMap textures/rsmse/metaltrimwide1_s
+		diffuseMap  textures/rsmse_custom_src/metaltrimwide1_d
+		normalMap   textures/rsmse_custom_src/metaltrimwide1_n
+		specularMap textures/rsmse_custom_src/metaltrimwide1_s
 	}
 }
 
 textures/rsmse/minelight_blue
 {
-	qer_editorimage textures/rsmse/minelight_blue
+	qer_editorimage textures/rsmse_custom_src/minelight_blue_d
 	{
-		diffuseMap  textures/rsmse/minelight_blue
-		normalMap   textures/rsmse/minelight_n
-		glowMap textures/rsmse/minelight_blue
+		diffuseMap  textures/rsmse_custom_src/minelight_blue_d
+		normalMap   textures/rsmse_custom_src/minelight_n
+		glowMap     textures/rsmse_custom_src/minelight_blue_d
 	}
 }
 
 textures/rsmse/minelight_red
 {
-	qer_editorimage textures/rsmse/minelight_red
+	qer_editorimage textures/rsmse_custom_src/minelight_red_d
 	{
-		diffuseMap  textures/rsmse/minelight_red
-		normalMap   textures/rsmse/minelight_n
-		glowMap textures/rsmse/minelight_red
+		diffuseMap  textures/rsmse_custom_src/minelight_red_d
+		normalMap   textures/rsmse_custom_src/minelight_n
+		glowMap     textures/rsmse_custom_src/minelight_red_d
 	}
 }
 
 textures/rsmse/minelight_green
 {
-	qer_editorimage textures/rsmse/minelight_green
+	qer_editorimage textures/rsmse_custom_src/minelight_green_d
 	{
-		diffuseMap  textures/rsmse/minelight_green
-		normalMap   textures/rsmse/minelight_n
-		glowMap textures/rsmse/minelight_green
+		diffuseMap  textures/rsmse_custom_src/minelight_green_d
+		normalMap   textures/rsmse_custom_src/minelight_n
+		glowMap     textures/rsmse_custom_src/minelight_green_d
 	}
 }
 
 textures/rsmse/metalplate1
 {
-	qer_editorimage textures/rsmse/metalplate1_d
+	qer_editorimage textures/rsmse_custom_src/metalplate1_d
 	{
-		diffuseMap  textures/rsmse/metalplate1_d
-		normalMap   textures/rsmse/metalplate1_n
-		specularMap textures/rsmse/metalplate1_s
+		diffuseMap  textures/rsmse_custom_src/metalplate1_d
+		normalMap   textures/rsmse_custom_src/metalplate1_n
+		specularMap textures/rsmse_custom_src/metalplate1_s
 	}
 }
 
 textures/rsmse/metalplate2
 {
-	qer_editorimage textures/rsmse/metalplate2_d
+	qer_editorimage textures/rsmse_custom_src/metalplate2_d
 	{
-		diffuseMap  textures/rsmse/metalplate2_d
-		normalMap   textures/rsmse/metalplate2_n
-		specularMap textures/rsmse/metalplate2_s
+		diffuseMap  textures/rsmse_custom_src/metalplate2_d
+		normalMap   textures/rsmse_custom_src/metalplate2_n
+		specularMap textures/rsmse_custom_src/metalplate2_s
 	}
 }
 
 textures/rsmse/metalplate3
 {
-	qer_editorimage textures/rsmse/metalplate3_d
+	qer_editorimage textures/rsmse_custom_src/metalplate3_d
 	{
-		diffuseMap  textures/rsmse/metalplate3_d
-		normalMap   textures/rsmse/metalplate3_n
-		specularMap textures/rsmse/metalplate3_s
+		diffuseMap  textures/rsmse_custom_src/metalplate3_d
+		normalMap   textures/rsmse_custom_src/metalplate3_n
+		specularMap textures/rsmse_custom_src/metalplate3_s
 	}
 }
 
 textures/rsmse/metalplatethin1_light1
 {
-	qer_editorimage textures/rsmse/metalplatethin1_light1_d
+	qer_editorimage textures/rsmse_custom_src/metalplatethin1_light1_d
 	{
-		diffuseMap  textures/rsmse/metalplatethin1_light1_d
-		normalMap   textures/rsmse/metalplatethin1_light1_n
-		specularMap textures/rsmse/metalplatethin1_light1_s
-		glowMap     textures/rsmse/metalplatethin1_light1_g
+		diffuseMap  textures/rsmse_custom_src/metalplatethin1_light1_d
+		normalMap   textures/rsmse_custom_src/metalplatethin1_light1_n
+		specularMap textures/rsmse_custom_src/metalplatethin1_light1_s
+		glowMap     textures/rsmse_custom_src/metalplatethin1_light1_g
 	}
 }
 
 textures/rsmse/metalplate1_angles
 {
-	qer_editorimage textures/rsmse/metalplate1_angles_d
+	qer_editorimage textures/rsmse_custom_src/metalplate1_angles_d
 	{
-		diffuseMap  textures/rsmse/metalplate1_angles_d
-		normalMap   textures/rsmse/metalplate1_angles_n
-		specularMap textures/rsmse/metalplate1_angles_s
+		diffuseMap  textures/rsmse_custom_src/metalplate1_angles_d
+		normalMap   textures/rsmse_custom_src/metalplate1_angles_n
+		specularMap textures/rsmse_custom_src/metalplate1_angles_s
 	}
 }
 
 textures/rsmse/metal1
 {
-	qer_editorimage textures/rsmse/metal1_d
+	qer_editorimage textures/rsmse_custom_src/metal1_d
 	{
-		diffuseMap  textures/rsmse/metal1_d
-		normalMap   textures/rsmse/metal1_n
-		specularMap textures/rsmse/metal1_s
+		diffuseMap  textures/rsmse_custom_src/metal1_d
+		normalMap   textures/rsmse_custom_src/metal1_n
+		specularMap textures/rsmse_custom_src/metal1_s
 	}
 }
 
 textures/rsmse/metal2
 {
-	qer_editorimage textures/rsmse/metal2_d
+	qer_editorimage textures/rsmse_custom_src/metal2_d
 	{
-		diffuseMap  textures/rsmse/metal2_d
-		normalMap   textures/rsmse/metal2_n
-		specularMap textures/rsmse/metal2_s
+		diffuseMap  textures/rsmse_custom_src/metal2_d
+		normalMap   textures/rsmse_custom_src/metal2_n
+		specularMap textures/rsmse_custom_src/metal2_s
 	}
 }
 
 textures/rsmse/ceil1
 {
-	qer_editorimage textures/rsmse/ceil1_d
+	qer_editorimage textures/rsmse_custom_src/ceil1_d
 	{
-		diffuseMap  textures/rsmse/ceil1_d
-		normalMap   textures/rsmse/ceil1_n
-		specularMap textures/rsmse/ceil1_s
+		diffuseMap  textures/rsmse_custom_src/ceil1_d
+		normalMap   textures/rsmse_custom_src/ceil1_n
+		specularMap textures/rsmse_custom_src/ceil1_s
 	}
 }
 
 textures/rsmse/ceil1_light1
 {
-	qer_editorimage textures/rsmse/ceil1_light1_d
+	qer_editorimage textures/rsmse_custom_src/ceil1_light1_d
 	q3map_surfacelight 5000
 	{
-		diffuseMap  textures/rsmse/ceil1_light1_d
-		normalMap   textures/rsmse/ceil1_light1_n
-		specularMap textures/rsmse/ceil1_light1_s
-		glowmap     textures/rsmse/ceil1_light1_g
+		diffuseMap  textures/rsmse_custom_src/ceil1_light1_d
+		normalMap   textures/rsmse_custom_src/ceil1_light1_n
+		specularMap textures/rsmse_custom_src/ceil1_light1_s
+		glowmap     textures/rsmse_custom_src/ceil1_light1_g
 	}
 }
 
 textures/rsmse/pipe_00
 {
-	qer_editorimage textures/rsmse/pipe_00
+	qer_editorimage textures/rsmse_custom_src/pipe_00_p
 	{
-		diffuseMap  textures/rsmse/pipe_00_d
-		normalMap   textures/rsmse/pipe_00_n
-		specularMap textures/rsmse/pipe_00_s
+		diffuseMap  textures/rsmse_custom_src/pipe_00_d
+		normalMap   textures/rsmse_custom_src/pipe_00_n
+		specularMap textures/rsmse_custom_src/pipe_00_s
 	}
 }
 
 textures/rsmse/stone1
 {
-	qer_editorimage textures/rsmse/stone1_d
+	qer_editorimage textures/rsmse_custom_src/stone1_d
 	{
-		diffuseMap  textures/rsmse/stone1_d
-		normalMap   textures/rsmse/stone1_n
-		specularMap textures/rsmse/stone1_s
+		diffuseMap  textures/rsmse_custom_src/stone1_d
+		normalMap   textures/rsmse_custom_src/stone1_n
+		specularMap textures/rsmse_custom_src/stone1_s
 	}
 }
 
 textures/rsmse/metal_reg_00
 {
-	qer_editorimage textures/rsmse/metal_reg_00_d
+	qer_editorimage textures/rsmse_custom_src/metal_reg_00_d
 	{
-		diffuseMap  textures/rsmse/metal_reg_00_d
-		specularMap textures/rsmse/metal_reg_00_s
+		diffuseMap  textures/rsmse_custom_src/metal_reg_00_d
+		specularMap textures/rsmse_custom_src/metal_reg_00_s
 	}
 }
 
-
 textures/rsmse/metal_reg_02
 {
-	qer_editorimage textures/rsmse/metal_reg_02_d
+	qer_editorimage textures/rsmse_custom_src/metal_reg_02_p
 	{
-		diffuseMap  textures/rsmse/metal_reg_02_d
-		specularMap textures/rsmse/metal_reg_02_s
+		diffuseMap  textures/rsmse_custom_src/metal_reg_02_d
+		specularMap textures/rsmse_custom_src/metal_reg_02_s
+	}
+}
+
+textures/rsmse/diamond_01
+{
+	qer_editorimage textures/rsmse_custom_src/diamond_04_d
+	{
+		diffuseMap  textures/rsmse_custom_src/diamond_04_d
+		normalMap   textures/rsmse_custom_src/diamond_04_n
+		specularMap textures/rsmse_custom_src/diamond_04_s
 	}
 }
 
 textures/rsmse/diamond_04
 {
-	qer_editorimage textures/rsmse/diamond_04
+	qer_editorimage textures/rsmse_custom_src/diamond_04_d
 	{
-		diffuseMap  textures/rsmse/diamond_04_d
-		normalMap   textures/rsmse/diamond_04_n
-		specularMap textures/rsmse/diamond_04_s
+		diffuseMap  textures/rsmse_custom_src/diamond_04_d
+		normalMap   textures/rsmse_custom_src/diamond_04_n
+		specularMap textures/rsmse_custom_src/diamond_04_s
 	}
 }
 
 textures/rsmse/floor1
 {
-	qer_editorImage textures/rsmse/floor1
+	qer_editorImage textures/rsmse_custom_src/floor1_p
 	sort opaque
 	{
-		diffuseMap textures/rsmse/floor1_d
-		normalMap textures/rsmse/floor1_n
-		specularMap textures/rsmse/floor1_s
+		diffuseMap  textures/rsmse_custom_src/floor1_d
+		normalMap   textures/rsmse_custom_src/floor1_n
+		specularMap textures/rsmse_custom_src/floor1_s
 	}
 }
 
 textures/rsmse/glass1
 {
-	qer_editorImage textures/rsmse/glass1
+	qer_editorImage textures/rsmse_custom_src/glass1_d
 	qer_trans 0.5
 	surfaceparm alphashadow
 	surfaceparm detail
@@ -212,9 +221,9 @@ textures/rsmse/glass1
 	sort 9
 	cull none
 	{
-		diffuseMap textures/rsmse/glass1
-		normalMap textures/rsmse/glass1_n
-		specularMap textures/rsmse/glass1_gloss
+		diffuseMap  textures/rsmse_custom_src/glass1_d
+		normalMap   textures/rsmse_custom_src/glass1_n
+		specularMap textures/rsmse_custom_src/glass1_s
 		blend blend
 		alphaGen const 0.5
 	}
@@ -222,7 +231,7 @@ textures/rsmse/glass1
 
 textures/rsmse/lightcone1
 {
-	qer_editorImage textures/rsmse/lightcone1
+	qer_editorImage textures/rsmse_custom_src/lightcone1_d
 	qer_trans 0.25
 	surfaceparm detail
 	surfaceparm nonsolid
@@ -230,7 +239,7 @@ textures/rsmse/lightcone1
 	sort 10
 	cull none
 	{
-		diffuseMap textures/rsmse/lightcone1
+		diffuseMap textures/rsmse_custom_src/lightcone1_d
 		blend blend
 		alphaGen const 0.5
 		rgbGen identity
@@ -240,7 +249,7 @@ textures/rsmse/lightcone1
 
 textures/rsmse/sludge1
 {
-	qer_editorImage textures/rsmse/sludge1
+	qer_editorImage textures/rsmse_custom_src/sludge1_d
 	qer_trans 0.75
 	surfaceparm detail
 	q3map_surfacelight 1000
@@ -249,7 +258,7 @@ textures/rsmse/sludge1
 	surfaceparm trans
 	sort 8
 	{
-		diffuseMap textures/rsmse/sludge1
+		diffuseMap textures/rsmse_custom_src/sludge1_d
 		blend blend
 		alphaGen const 0.75
 		// rgbGen const 0.2 0.2 0.2
@@ -260,7 +269,7 @@ textures/rsmse/sludge1
 
 textures/rsmse/water1
 {
-	qer_editorImage textures/rsmse/water1
+	qer_editorImage textures/rsmse_custom_src/water1_d
 	qer_trans 0.75
 	surfaceparm detail
 	q3map_surfacelight 1000
@@ -268,11 +277,10 @@ textures/rsmse/water1
 	surfaceparm trans
 	sort 8
 	{
-		diffuseMap textures/rsmse/water1
+		diffuseMap textures/rsmse_custom_src/water1_d
 		blend blend
 		alphaGen const 0.75
 		// rgbGen const 0.2 0.2 0.2
-
 		tcMod scroll 0 -0.75
 		// tcMod turb 0 0.2 0 0.5
 	}
