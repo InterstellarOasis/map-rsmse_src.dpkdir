@@ -1,6 +1,7 @@
 {
 "classname" "worldspawn"
 "message" "RSM-01 Revisited By Echon"
+"_lightmapscale" "0.4"
 "_minlight" "1"
 "_mingridlight" "0"
 {
