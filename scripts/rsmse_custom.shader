@@ -1,4 +1,4 @@
-textures/rsmse/hazard1
+textures/rsmse_custom/hazard1
 {
 	qer_editorimage textures/rsmse_custom_src/hazard1_d
 	{
@@ -8,7 +8,7 @@ textures/rsmse/hazard1
 	}
 }
 
-textures/rsmse/metaltrimwide1
+textures/rsmse_custom/metaltrimwide1
 {
 	qer_editorimage textures/rsmse_custom_src/metaltrimwide1_d
 	{
@@ -18,7 +18,7 @@ textures/rsmse/metaltrimwide1
 	}
 }
 
-textures/rsmse/minelight_blue
+textures/rsmse_custom/minelight_blue
 {
 	qer_editorimage textures/rsmse_custom_src/minelight_blue_d
 	{
@@ -28,7 +28,7 @@ textures/rsmse/minelight_blue
 	}
 }
 
-textures/rsmse/minelight_red
+textures/rsmse_custom/minelight_red
 {
 	qer_editorimage textures/rsmse_custom_src/minelight_red_d
 	{
@@ -38,7 +38,7 @@ textures/rsmse/minelight_red
 	}
 }
 
-textures/rsmse/minelight_green
+textures/rsmse_custom/minelight_green
 {
 	qer_editorimage textures/rsmse_custom_src/minelight_green_d
 	{
@@ -48,7 +48,7 @@ textures/rsmse/minelight_green
 	}
 }
 
-textures/rsmse/metalplate1
+textures/rsmse_custom/metalplate1
 {
 	qer_editorimage textures/rsmse_custom_src/metalplate1_d
 	{
@@ -58,7 +58,7 @@ textures/rsmse/metalplate1
 	}
 }
 
-textures/rsmse/metalplate2
+textures/rsmse_custom/metalplate2
 {
 	qer_editorimage textures/rsmse_custom_src/metalplate2_d
 	{
@@ -68,7 +68,7 @@ textures/rsmse/metalplate2
 	}
 }
 
-textures/rsmse/metalplate3
+textures/rsmse_custom/metalplate3
 {
 	qer_editorimage textures/rsmse_custom_src/metalplate3_d
 	{
@@ -78,7 +78,7 @@ textures/rsmse/metalplate3
 	}
 }
 
-textures/rsmse/metalplatethin1_light1
+textures/rsmse_custom/metalplatethin1_light1
 {
 	qer_editorimage textures/rsmse_custom_src/metalplatethin1_light1_d
 	{
@@ -89,7 +89,7 @@ textures/rsmse/metalplatethin1_light1
 	}
 }
 
-textures/rsmse/metalplate1_angles
+textures/rsmse_custom/metalplate1_angles
 {
 	qer_editorimage textures/rsmse_custom_src/metalplate1_angles_d
 	{
@@ -99,7 +99,7 @@ textures/rsmse/metalplate1_angles
 	}
 }
 
-textures/rsmse/metal1
+textures/rsmse_custom/metal1
 {
 	qer_editorimage textures/rsmse_custom_src/metal1_d
 	{
@@ -109,7 +109,7 @@ textures/rsmse/metal1
 	}
 }
 
-textures/rsmse/metal2
+textures/rsmse_custom/metal2
 {
 	qer_editorimage textures/rsmse_custom_src/metal2_d
 	{
@@ -119,7 +119,7 @@ textures/rsmse/metal2
 	}
 }
 
-textures/rsmse/ceil1
+textures/rsmse_custom/ceil1
 {
 	qer_editorimage textures/rsmse_custom_src/ceil1_d
 	{
@@ -129,7 +129,7 @@ textures/rsmse/ceil1
 	}
 }
 
-textures/rsmse/ceil1_light1
+textures/rsmse_custom/ceil1_light1
 {
 	qer_editorimage textures/rsmse_custom_src/ceil1_light1_d
 	q3map_surfacelight 5000
@@ -141,7 +141,7 @@ textures/rsmse/ceil1_light1
 	}
 }
 
-textures/rsmse/pipe_00
+textures/rsmse_custom/pipe_00
 {
 	qer_editorimage textures/rsmse_custom_src/pipe_00_p
 	{
@@ -151,7 +151,7 @@ textures/rsmse/pipe_00
 	}
 }
 
-textures/rsmse/stone1
+textures/rsmse_custom/stone1
 {
 	qer_editorimage textures/rsmse_custom_src/stone1_d
 	{
@@ -161,7 +161,7 @@ textures/rsmse/stone1
 	}
 }
 
-textures/rsmse/metal_reg_00
+textures/rsmse_custom/metal_reg_00
 {
 	qer_editorimage textures/rsmse_custom_src/metal_reg_00_d
 	{
@@ -170,7 +170,7 @@ textures/rsmse/metal_reg_00
 	}
 }
 
-textures/rsmse/metal_reg_02
+textures/rsmse_custom/metal_reg_02
 {
 	qer_editorimage textures/rsmse_custom_src/metal_reg_02_p
 	{
@@ -179,7 +179,7 @@ textures/rsmse/metal_reg_02
 	}
 }
 
-textures/rsmse/diamond_01
+textures/rsmse_custom/diamond_01
 {
 	qer_editorimage textures/rsmse_custom_src/diamond_04_d
 	{
@@ -189,7 +189,7 @@ textures/rsmse/diamond_01
 	}
 }
 
-textures/rsmse/diamond_04
+textures/rsmse_custom/diamond_04
 {
 	qer_editorimage textures/rsmse_custom_src/diamond_04_d
 	{
@@ -199,7 +199,7 @@ textures/rsmse/diamond_04
 	}
 }
 
-textures/rsmse/floor1
+textures/rsmse_custom/floor1
 {
 	qer_editorImage textures/rsmse_custom_src/floor1_p
 	sort opaque
@@ -210,7 +210,7 @@ textures/rsmse/floor1
 	}
 }
 
-textures/rsmse/glass1
+textures/rsmse_custom/glass1
 {
 	qer_editorImage textures/rsmse_custom_src/glass1_d
 	qer_trans 0.5
@@ -229,7 +229,7 @@ textures/rsmse/glass1
 	}
 }
 
-textures/rsmse/lightcone1
+textures/rsmse_custom/lightcone1
 {
 	qer_editorImage textures/rsmse_custom_src/lightcone1_d
 	qer_trans 0.25
@@ -247,7 +247,7 @@ textures/rsmse/lightcone1
 	}
 }
 
-textures/rsmse/sludge1
+textures/rsmse_custom/sludge1
 {
 	qer_editorImage textures/rsmse_custom_src/sludge1_d
 	qer_trans 0.75
@@ -267,7 +267,7 @@ textures/rsmse/sludge1
 	}
 }
 
-textures/rsmse/water1
+textures/rsmse_custom/water1
 {
 	qer_editorImage textures/rsmse_custom_src/water1_d
 	qer_trans 0.75
