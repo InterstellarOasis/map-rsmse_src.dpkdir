@@ -21,6 +21,9 @@ textures/rsmse_custom/metaltrimwide1
 textures/rsmse_custom/minelight_blue
 {
 	qer_editorimage textures/rsmse_custom_src/minelight_blue_d
+	q3map_lightRGB .5 .6 1
+	q3map_lightSubdivide 16
+	q3map_surfaceLight 14000
 	{
 		diffuseMap  textures/rsmse_custom_src/minelight_blue_d
 		normalMap   textures/rsmse_custom_src/minelight_n
@@ -31,6 +34,9 @@ textures/rsmse_custom/minelight_blue
 textures/rsmse_custom/minelight_red
 {
 	qer_editorimage textures/rsmse_custom_src/minelight_red_d
+	q3map_lightRGB 1 .6 .5
+	q3map_lightSubdivide 16
+	q3map_surfaceLight 14000
 	{
 		diffuseMap  textures/rsmse_custom_src/minelight_red_d
 		normalMap   textures/rsmse_custom_src/minelight_n
@@ -41,6 +47,9 @@ textures/rsmse_custom/minelight_red
 textures/rsmse_custom/minelight_green
 {
 	qer_editorimage textures/rsmse_custom_src/minelight_green_d
+	q3map_lightRGB .4 .7 .4
+	q3map_lightSubdivide 16
+	q3map_surfaceLight 14000
 	{
 		diffuseMap  textures/rsmse_custom_src/minelight_green_d
 		normalMap   textures/rsmse_custom_src/minelight_n
@@ -81,6 +90,9 @@ textures/rsmse_custom/metalplate3
 textures/rsmse_custom/metalplatethin1_light1
 {
 	qer_editorimage textures/rsmse_custom_src/metalplatethin1_light1_d
+	q3map_lightRGB 1 1 1
+	q3map_lightSubdivide 8
+	q3map_surfaceLight 27000
 	{
 		diffuseMap  textures/rsmse_custom_src/metalplatethin1_light1_d
 		normalMap   textures/rsmse_custom_src/metalplatethin1_light1_n
@@ -132,7 +144,9 @@ textures/rsmse_custom/ceil1
 textures/rsmse_custom/ceil1_light1
 {
 	qer_editorimage textures/rsmse_custom_src/ceil1_light1_d
-	q3map_surfacelight 5000
+	q3map_lightRGB 1 1 1
+	q3map_lightSubdivide 8
+	q3map_surfaceLight 27000
 	{
 		diffuseMap  textures/rsmse_custom_src/ceil1_light1_d
 		normalMap   textures/rsmse_custom_src/ceil1_light1_n
@@ -252,7 +266,9 @@ textures/rsmse_custom/sludge1
 	qer_editorImage textures/rsmse_custom_src/sludge1_d
 	qer_trans 0.75
 	surfaceparm detail
-	q3map_surfacelight 1000
+	q3map_lightImage textures/rsmse_custom_src/sludge1_d
+	q3map_lightSubdivide 4
+	q3map_surfaceLight 500
 	surfaceparm nolightmap
 	surfaceparm water
 	surfaceparm trans
@@ -272,7 +288,9 @@ textures/rsmse_custom/water1
 	qer_editorImage textures/rsmse_custom_src/water1_d
 	qer_trans 0.75
 	surfaceparm detail
-	q3map_surfacelight 1000
+	q3map_lightImage textures/rsmse_custom_src/water1_d
+	q3map_lightSubdivide 4
+	q3map_surfaceLight 2000
 	surfaceparm water
 	surfaceparm trans
 	sort 8
