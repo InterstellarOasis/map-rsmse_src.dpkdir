@@ -27674,88 +27674,112 @@ rsmse_custom/lightcone1
 "light" "200"
 }
 {
-"classname" "team_alien_overmind"
-"origin" "464.000000 1056.000000 272.000000"
-"yaw" "-90.000000"
-}
-{
-"classname" "team_alien_spawn"
-"origin" "688.000000 1408.000000 272.000000"
-}
-{
-"classname" "team_alien_spawn"
-"origin" "176.000000 1328.000000 272.000000"
-}
-{
-"classname" "team_alien_spawn"
-"origin" "448.000000 1472.000000 272.000000"
-}
-{
-"classname" "team_alien_acid_tube"
-"origin" "304.000000 1040.000000 272.000000"
-}
-{
-"classname" "team_alien_acid_tube"
-"origin" "320.000000 1456.000000 240.000000"
-}
-{
-"classname" "team_alien_acid_tube"
-"origin" "576.000000 1472.000000 240.000000"
-}
-{
-"classname" "team_alien_acid_tube"
-"origin" "624.000000 1024.000000 272.000000"
-}
-{
-"classname" "team_human_reactor"
-"origin" "704.000000 -3952.000000 144.000000"
-}
-{
-"classname" "team_human_spawn"
-"origin" "320.000000 -3888.000000 232.000000"
-"yaw" "90.000000"
-}
-{
-"classname" "team_human_spawn"
-"origin" "1312.000000 -3584.000000 232.000000"
-"yaw" "180.000000"
-}
-{
-"classname" "team_human_spawn"
-"origin" "48.000000 -3584.000000 168.000000"
-}
-{
 "classname" "pos_player_intermission"
-"origin" "688.000000 -2448.000000 64.000000"
-"yaw" "-90.000000"
+"origin" "688 -2448 64"
+"angle" "-90"
 }
 {
 "classname" "pos_human_intermission"
-"origin" "736.000000 -2448.000000 64.000000"
-"yaw" "-90.000000"
+"origin" "736 -2448 64"
+"angle" "-90"
 }
 {
 "classname" "pos_alien_intermission"
-"origin" "448.000000 -144.000000 64.000000"
-"yaw" "90.000000"
+"origin" "448 -144 64"
+"angle" "90"
+}
+{
+"classname" "team_alien_overmind"
+"origin" "464 1040 272"
+"angle" "-90"
+}
+{
+"classname" "team_alien_spawn"
+"origin" "688 1520 272"
+"angle" "-90"
+}
+{
+"classname" "team_alien_spawn"
+"origin" "104 1328 272"
+}
+{
+"classname" "team_alien_spawn"
+"origin" "448 1584 272"
+"angle" "-90"
+}
+{
+"classname" "team_human_spawn"
+"origin" "320 -3888 232"
+"angle" "90"
+}
+{
+"classname" "team_alien_acid_tube"
+"origin" "304 976 -40"
+"angle" "-90"
+}
+{
+"classname" "team_alien_acid_tube"
+"origin" "320 1520 272"
+"angle" "90"
+}
+{
+"classname" "team_alien_acid_tube"
+"origin" "576 1536 272"
+"angle" "90"
+}
+{
+"classname" "team_alien_acid_tube"
+"origin" "640 1000 -40"
+"angle" "-90"
+}
+{
+"classname" "team_alien_leech"
+"origin" "592 1012 272"
+}
+{
+"classname" "team_human_reactor"
+"origin" "704 -3952 144"
+}
+{
+"classname" "team_human_spawn"
+"origin" "1312 -3584 232"
+"angle" "180"
+}
+{
+"classname" "team_human_spawn"
+"origin" "48 -3584 168"
 }
 {
 "classname" "team_human_mgturret"
-"origin" "864.000000 -3424.000000 248.000000"
-"yaw" "135.000000"
+"origin" "864 -3424 232"
+"angle" "135"
 }
 {
 "classname" "team_human_mgturret"
-"origin" "480.000000 -3424.000000 200.000000"
-"yaw" "45.000000"
+"origin" "480 -3424 168"
+"angle" "45"
 }
 {
 "classname" "team_human_mgturret"
-"origin" "944.000000 -3728.000000 200.000000"
-"yaw" "90.000000"
+"origin" "940 -3732 168"
+"angle" "90"
 }
 {
 "classname" "team_human_mgturret"
-"origin" "552.000000 -3728.000000 200.000000"
-"yaw" "90.000000"
+"origin" "576 -3732 168"
+"angle" "90"
+}
+{
+"classname" "team_human_drill"
+"origin" "796 -4032 144"
+}
+{
+"classname" "team_human_armoury"
+"origin" "180 -3392 16"
+"angle" "180"
+}
+{
+"classname" "team_human_medistat"
+"origin" "260 -3396 16"
+"angle" "180"
 }
