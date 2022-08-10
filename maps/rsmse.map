@@ -27640,12 +27640,6 @@ rsmse_custom/lightcone1
 "light" "200"
 }
 {
-"classname" "light"
-"origin" "384 288 608"
-"_wait" ".6"
-"light" "200"
-}
-{
 "classname" "team_alien_overmind"
 "origin" "464.000000 1056.000000 272.000000"
 "yaw" "-90.000000"
