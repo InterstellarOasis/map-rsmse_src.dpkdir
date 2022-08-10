@@ -2,6 +2,8 @@
 "classname" "worldspawn"
 "yaw" "270"
 "message" "RSM-01 Revisited By Echon"
+"_minlight" "1"
+"_mingridlight" "0"
 {
 ( 2432 -2464 144 ) ( 2304 -2464 144 ) ( 2304 -2176 0 ) rsmse_custom/floor1 0 0 0 0.5 0.5 0 0 0
 ( 2304 -2464 144 ) ( 2432 -2464 144 ) ( 2432 -2464 128 ) rsmse_custom/floor1 0 0 0 0.5 0.5 0 0 0
