@@ -27668,7 +27668,7 @@ rsmse_custom/lightcone1
 "wait" "2"
 "speed" "200"
 "group" "doorz_one"
-"yaw" "0"
+"angle" "0"
 {
 ( 512 -232 0 ) ( 448 -232 0 ) ( 448 -256 0 ) rsmse_custom/metal1 0 0 0 0.5 0.5 0 0 0
 ( 448 -256 128 ) ( 448 -232 128 ) ( 512 -232 128 ) rsmse_custom/metal1 0 0 0 0.5 0.5 0 0 0
@@ -27685,7 +27685,7 @@ rsmse_custom/lightcone1
 "wait" "2"
 "speed" "200"
 "group" "doorz_one"
-"yaw" "180"
+"angle" "180"
 {
 ( 448 -232 0 ) ( 344 -232 0 ) ( 344 -248 0 ) rsmse_custom/metal1 0 0 0 0.5 0.5 0 0 0
 ( 344 -248 128 ) ( 344 -232 128 ) ( 448 -232 128 ) rsmse_custom/metal1 0 0 0 0.5 0.5 0 0 0
